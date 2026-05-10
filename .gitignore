@@ -1,0 +1,8 @@
+# Large generated files — don't upload these
+outputs/
+models/
+data/
+__pycache__/
+*.pkl
+*.pyc
+.env

@@ -16,11 +16,6 @@ Predicting box office revenue is a genuine challenge in the film industry — bu
 
 The result is a fully interactive Streamlit dashboard where you can explore the data, review model performance, and estimate revenue for any hypothetical film.
 
-## Dashboard Preview
-
-![Overview](assets/screenshot_overview.png)
-![Predict](assets/screenshot_predict.png)
-![Explainability](assets/screenshot_explainability.png)
 
 ---
 
